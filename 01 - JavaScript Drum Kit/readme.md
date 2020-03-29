@@ -1,6 +1,6 @@
-##Exercise 1: JavaScript Drum Kit
+## Exercise 1: JavaScript Drum Kit
 
-###Key Take-aways:
+### Key Take-aways:
 
 1. How to recognize key in javascript: there are a few properties such as 'code', 'keyCode', 'key', but the most compatible one accross different broswer systems is 'keyCode'.
 2. The solution provided by wesbos has a bug: when you press a key and hold it for a few seconds, the transition border color will stick and not go away. I was able to fix the bug by deleting this line of code in the removePlay function "if (e.propertyName !== 'transform') return undefined;"

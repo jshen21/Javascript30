@@ -1,4 +1,4 @@
-## Exercise 1: JavaScript Drum Kit
+## Exercise 4: Array Cardio 
 
 ### Key Take-aways:
 
